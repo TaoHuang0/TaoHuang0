@@ -12,7 +12,9 @@
 
 ### 🛠Some Statistics About Me
 
-[![TaoHuang0's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaoHuang0)](https://github.com/anuraghazra/github-readme-stats)
+[![TaoHuang0's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaoHuang0)](https://github.com/anuraghazra/github-readme-stats)  
+
+![](https://code.rohitink.com/wp-content/uploads/2013/06/1301825696_183475245_1-Pictures-of-C-Java-for-10th-11th-12th-student-of-all-syllabus.jpg "Most Used Languages")
 
 
 <!--
