@@ -1,19 +1,18 @@
 ### Hi there 👋  
 
-Hello, I'm Tao Huang 👋  
+**Hello, I'm Tao Huang 👋**  
+*   🌱 A Computer Science Undergraduate Student at UNC Chapel Hill  
+*   ⭐ Previously Study at University of Miami  
+*   👯 Live in Las Vegas, NV & Chapel Hill, NC  
+*   🔭 Searching Full Stack developer  
+*   💬 Ask me about Java, C++ and my projects on thuang@unc.edu  
+*   🤔 Hello World! tester  
+*   ⚡ Fun fact: Data Analysis📊  
 
-🌱 A Computer Science Undergraduate Student at UNC Chapel Hill  
-⭐ Previously Study at University of Miami  
-👯 Live in Las Vegas, NV & Chapel Hill, NC  
-🔭 Searching Full Stack developer  
-💬 Ask me about Java, C++ and my projects on thuang@unc.edu  
-🤔 Hello World! tester  
-⚡ Fun fact: Data Analysis📊  
 
+### 🛠Some Statistics About Me
 
-### Some Statistics About Me  
-
-[![TaoHuang0's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaoHuang0)](https://github.com/anuraghazra/github-readme-stats)
+[![TaoHuang0's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaoHuang0)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaoHuang0)](https://github.com/anuraghazra/github-readme-stats)
 
 
