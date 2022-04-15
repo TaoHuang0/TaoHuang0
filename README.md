@@ -1,13 +1,13 @@
 ### Hi there 👋  
 
 **Hello, I'm Tao Huang 👋**  
-*   🌱 A Computer Science Undergraduate Student at 'UNC Chapel Hill'  
-*   ⭐ Previously Study at 'University of Miami'  
-*   👯 Live in 'Las Vegas, NV' & 'Chapel Hill, NC'  
-*   🔭 Searching 'Full Stack developer Intern'  
-*   💬 Ask me about Java, C++ and my projects on 'thuang@unc.edu'  
+*   🌱 A Computer Science Undergraduate Student at `UNC Chapel Hill`  
+*   ⭐ Previously Study at `University of Miami`  
+*   👯 Live in `Las Vegas, NV` & `Chapel Hill, NC`  
+*   🔭 Searching `Full Stack developer Intern`  
+*   💬 Ask me about Java, C++ and my projects on `thuang@unc.edu`  
 *   🤔 Hello World! tester  
-*   ⚡ Fun fact: 'Data Analysis'📊  
+*   ⚡ Fun fact: `Data Analysis`📊  
 
 
 ### 🛠Some Statistics About Me
