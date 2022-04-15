@@ -39,7 +39,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>R</span><br><br><br>
-        <img height="64px" src="https://baike.baidu.com/pic/R语言/4090790/1/8ad4b31c8701a18b9d62d404992f07082938fef4?fr=lemma&ct=single#aid=1&pic=8ad4b31c8701a18b9d62d404992f07082938fef4">
+        <img height="64px" src="https://bkimg.cdn.bcebos.com/pic/8ad4b31c8701a18b9d62d404992f07082938fef4?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxODA=,g_7,xp_5,yp_5/format,f_auto">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
