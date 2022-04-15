@@ -52,6 +52,12 @@
         <span>Intellij IDEA</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
       </td>
+      </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Linux</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/rocky-linux-icon.svg">
+      </td>
     </tr>
   </tbody>
 </table>
