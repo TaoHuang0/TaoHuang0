@@ -1,8 +1,7 @@
-### Hi there 👋  
+### Hello, I'm Tao Huang 👋
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-**Hello, I'm Tao Huang 👋**  
 *   🌱 A Computer Science Undergraduate Student at `UNC Chapel Hill`  
 *   ⭐ Previously Study at `University of Miami`  
 *   👯 Live in `Las Vegas, NV` & `Chapel Hill, NC`  
