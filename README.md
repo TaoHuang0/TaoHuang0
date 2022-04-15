@@ -11,6 +11,8 @@
 *   🤔 Hello World! tester  
 *   ⚡ Fun fact: `Data Analysis`📊  
 
+&nbsp;
+&nbsp;
 
 ### 🛠Tecch Stack
 
@@ -37,7 +39,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>R</span><br><br><br>
-        <img height="64px" src="https://www.logolynx.com/topic/r+language#&gid=1&pid=1">
+        <img height="64px" src="https://en.wikipedia.org/wiki/R_(programming_language)#/media/File:R_logo.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
@@ -55,6 +57,8 @@
   </tbody>
 </table>
 
+
+<!--
 - 💻 &#160; ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -68,7 +72,6 @@
 <img align="left" alt="Most Used Languages" src="https://code.rohitink.com/wp-content/uploads/2013/06/1301825696_183475245_1-Pictures-of-C-Java-for-10th-11th-12th-student-of-all-syllabus.jpg" />
 
 
-<!--
 **TaoHuang0/TaoHuang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
