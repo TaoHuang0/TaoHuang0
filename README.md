@@ -13,7 +13,7 @@
 &nbsp;
 &nbsp;
 
-### 🛠Tecch Stack
+### 🛠Tech Stack
 
 <table>
   <tbody>
