@@ -25,7 +25,7 @@
       </td>
       <td width="25%" align="center">
         <span>𝗖++</span><br><br><br>
-        <img height="64px" src="https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
@@ -39,7 +39,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>R</span><br><br><br>
-        <img height="64px" src="https://en.wikipedia.org/wiki/R_(programming_language)#/media/File:R_logo.svg">
+        <img height="64px" src="https://baike.baidu.com/pic/R语言/4090790/1/8ad4b31c8701a18b9d62d404992f07082938fef4?fr=lemma&ct=single#aid=1&pic=8ad4b31c8701a18b9d62d404992f07082938fef4">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
