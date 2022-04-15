@@ -1,20 +1,30 @@
 ### Hi there 👋  
 
+<img align="right" alt="GIF" src="https://static.oschina.net/uploads/space/2015/0629/165622_xrL1_1767531.png" />
+
 **Hello, I'm Tao Huang 👋**  
 *   🌱 A Computer Science Undergraduate Student at `UNC Chapel Hill`  
 *   ⭐ Previously Study at `University of Miami`  
 *   👯 Live in `Las Vegas, NV` & `Chapel Hill, NC`  
 *   🔭 Searching `Full Stack developer Intern`  
-*   💬 Ask me about Java, C++ and my projects on `thuang@unc.edu`  
+*   💬 Ask me about ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) and my projects on `thuang@unc.edu`  
 *   🤔 Hello World! tester  
 *   ⚡ Fun fact: `Data Analysis`📊  
 
 
-### 🛠Some Statistics About Me
+### 🛠Tecch Stack
 
-[![TaoHuang0's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaoHuang0)](https://github.com/anuraghazra/github-readme-stats)  
+- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)    
+- 🌐 &#160; ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) 
 
-![](https://code.rohitink.com/wp-content/uploads/2013/06/1301825696_183475245_1-Pictures-of-C-Java-for-10th-11th-12th-student-of-all-syllabus.jpg "Most Used Languages")
+<img align="left" alt="Most Used Languages" src="https://code.rohitink.com/wp-content/uploads/2013/06/1301825696_183475245_1-Pictures-of-C-Java-for-10th-11th-12th-student-of-all-syllabus.jpg" />
 
 
 <!--
