@@ -6,7 +6,7 @@
 *   ⭐ Previously Study at `University of Miami`  
 *   👯 Live in `Las Vegas, NV` & `Chapel Hill, NC`  
 *   🔭 Searching `Full Stack developer Intern`  
-*   ⭐ Here is my resume <a href="https://drive.google.com/file/d/1kU_-BivE4k1BVPyTvMldsisLsuE1acjC/view?usp=share_link">link text</a>
+*   ⭐ Here is my <a href="https://drive.google.com/file/d/1kU_-BivE4k1BVPyTvMldsisLsuE1acjC/view?usp=share_link">RESUME</a>
 *   💬 Ask me about ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) and my projects on [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumyggsun@gmail.com)](mailto:thuang@unc.edu)
 *   🤔 Hello World! tester  
 *   ⚡ Fun fact: `Data Analysis`📊  
