@@ -60,6 +60,20 @@
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
       </td>
       <td width="25%" align="center">
+        <span>JavaFX</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png">
+      </td>
+      <td width="25%" align="center">
+        <span>CSS</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>HTML</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
@@ -71,19 +85,15 @@
         <span>Intellij IDEA</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>Linux</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/rocky-linux-icon.svg">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span>R</span><br><br><br>
         <img height="64px" src="https://bkimg.cdn.bcebos.com/pic/8ad4b31c8701a18b9d62d404992f07082938fef4?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxODA=,g_7,xp_5,yp_5/format,f_auto">
-      </td>
-      <td width="25%" align="center">
-        <span>JavaFX</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png">
       </td>
     </tr>
   </tbody>
