@@ -62,7 +62,7 @@
       </td>
       <td width="25%" align="center">
         <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fd2vqpl3tx84ay5.cloudfront.net%2F500x%2Ftumblr_lsus01g1ik1qies3uo1_400.png&imgrefurl=https%3A%2F%2Fbergie.iki.fi%2Fblog%2F11272210057%2F&tbnid=C6a1AILnk6au5M&vet=12ahUKEwiFzP2nucL8AhUrElkFHWepCBEQMygGegUIARDtAQ..i&docid=_onejoIx3RF-JM&w=400&h=400&q=javascript%20logo&client=safari&ved=2ahUKEwiFzP2nucL8AhUrElkFHWepCBEQMygGegUIARDtAQ">
+        <img height="64px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJavaScript-logo.png&psig=AOvVaw0gCmm9oYw42sqJMTPVs6ju&ust=1673627201619000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLiCvqi5wvwCFQAAAAAdAAAAABAZ">
       </td>
     </tr>
   </tbody>
