@@ -8,7 +8,6 @@
 *   🔭 Searching `Full Stack developer Intern`  
 *   ⭐ Here is my <a href="https://drive.google.com/file/d/1kU_-BivE4k1BVPyTvMldsisLsuE1acjC/view?usp=share_link">RESUME</a>
 *   🌱 This is my <a href="https://taohuang.life">Personal Website</a>
-*   💬 Ask me about ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white), JavaScript, React, R, SQL, and my projects on [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumyggsun@gmail.com)](mailto:thuang@unc.edu)
 *   🤔 Hello World! tester  
 *   ⚡ Fun fact: `Data Analysis`📊  
 
@@ -58,7 +57,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>MySQL</span><br><br><br>
-        <img height="64px" src="https://en.wikipedia.org/wiki/MySQL#/media/File:MySQL_logo.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
