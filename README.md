@@ -6,10 +6,10 @@
 *   ⭐ Previously Study at `University of Miami`  
 *   👯 Live in `Las Vegas, NV` & `Chapel Hill, NC`  
 *   🔭 Searching `Full Stack developer Intern`  
-*   ⭐ Here is my <a href="https://drive.google.com/file/d/1kU_-BivE4k1BVPyTvMldsisLsuE1acjC/view?usp=share_link">RESUME</a>
+*   ⭐ Here is my <a href="https://drive.google.com/file/d/1mrl_gQr6usOnS_LMrj3_B8yyKu7Po8x1/preview">RESUME</a>
 *   🌱 This is my <a href="https://taohuang.life">Personal Website</a>
 *   🤔 Hello World! tester  
-*   ⚡ Fun fact: `Data Analysis`📊  
+*   ⚡ Fun fact: I did a 5,000 miles road trip last summer📊  
 
 &nbsp;
 &nbsp;
