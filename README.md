@@ -83,7 +83,7 @@
       </td>
       <td width="25%" align="center">
         <span>Tableau</span><br><br><br>
-        <img height="64px" src="https://en.wikipedia.org/wiki/Tableau_Software#/media/File:Tableau_logo.svg">
+        <img height="64px" src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image_view_fullscreen">
       </td>
     </tr>
   </tbody>
