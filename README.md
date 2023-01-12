@@ -97,7 +97,7 @@
       </td>
       <td width="25%" align="center">
         <span>Tableau</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png)https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png">
       </td>
     </tr>
   </tbody>
