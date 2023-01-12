@@ -82,8 +82,8 @@
         <img height="64px" src="https://bkimg.cdn.bcebos.com/pic/8ad4b31c8701a18b9d62d404992f07082938fef4?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxODA=,g_7,xp_5,yp_5/format,f_auto">
       </td>
       <td width="25%" align="center">
-        <span>Tableau</span><br><br><br>
-        <img height="64px" src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image_view_fullscreen">
+        <span>JavaFX</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png">
       </td>
     </tr>
   </tbody>
