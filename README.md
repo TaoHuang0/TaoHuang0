@@ -21,6 +21,28 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png">
+      </td>
+      <td width="25%" align="center">
+        <span>React.js</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Express.js</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Node.js</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="25%" align="center">
         <span>𝗖</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
@@ -29,18 +51,14 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>R</span><br><br><br>
-        <img height="64px" src="https://bkimg.cdn.bcebos.com/pic/8ad4b31c8701a18b9d62d404992f07082938fef4?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxODA=,g_7,xp_5,yp_5/format,f_auto">
+        <span>MySQL</span><br><br><br>
+        <img height="64px" src="https://en.wikipedia.org/wiki/MySQL#/media/File:MySQL_logo.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
@@ -54,15 +72,19 @@
         <span>Intellij IDEA</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
       </td>
-      </tr>
+    </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>Linux</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/rocky-linux-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png">
+        <span>R</span><br><br><br>
+        <img height="64px" src="https://bkimg.cdn.bcebos.com/pic/8ad4b31c8701a18b9d62d404992f07082938fef4?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxODA=,g_7,xp_5,yp_5/format,f_auto">
+      </td>
+      <td width="25%" align="center">
+        <span>Tableau</span><br><br><br>
+        <img height="64px" src="https://en.wikipedia.org/wiki/Tableau_Software#/media/File:Tableau_logo.svg">
       </td>
     </tr>
   </tbody>
