@@ -2,10 +2,8 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-*   🌱 A Computer Science Master Student at `Cornell Tech`  
 *   ⭐ Undergraduate Study at `University of North Carolina at Chapel Hill`  
-*   👯 Live in `New York, NY` & `Chapel Hill, NC`  
-*   🔭 Searching `Software Engineer Full Time`  
+*   👯 Live in `New York, NY` 
 *   ⭐ Here is my <a href="https://drive.google.com/file/d/1CmkQ8O5-GnSyoGPzRHApBTN9wXTUUIbK/preview">RESUME</a>
 *   🌱 This is my <a href="https://taohuang.life">Personal Website</a>
 *   🤔 Hello World! tester  
